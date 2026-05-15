@@ -55,3 +55,13 @@ function deleni(num1, num2) {
 }
 
 deleni(24,6)
+
+scitani(6,7)
+
+function printRange(start, end) {
+    for (let i = start; i <= end; i++) {
+        console.log(i);
+    }
+}
+
+printRange(2, 7);
